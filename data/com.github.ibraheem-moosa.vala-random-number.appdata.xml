@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Ibraheem Moosa <ibraheemmoosa1347@gmail.com> -->
+<component type="desktop">
+    <id>com.github.ibraheem-moosa.elementary-hello-again.desktop</id>
+    <metadata_licence>CC0</metadata_licence>
+    <name>Hello Again</name>
+    <summary>Just another dumb app!</summary>
+    <description>
+        <p>How much more dumb shit do I have to type.</p>
+    </description>
+</component>
+
