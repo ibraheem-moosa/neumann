@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2018 Ibraheem Moosa <ibraheemmoosa1347@gmail.com> -->
 <component type="desktop">
-    <id>com.github.ibraheem-moosa.elementary-hello-again.desktop</id>
+    <id>com.github.ibraheem-moosa.vala-random-number.desktop</id>
     <metadata_licence>CC0</metadata_licence>
-    <name>Hello Again</name>
-    <summary>Just another dumb app!</summary>
+    <name>4-digit Random Number Generator</name>
+    <summary>Get random numbers using middle square method!</summary>
     <description>
-        <p>How much more dumb shit do I have to type.</p>
+        <p>
+            This app uses John von Neumann's middle square method to 
+            generate 4-digit random numbers. It's a simple method that 
+            can be done on pen and paper.
+        </p>
+        <p>
+            To get the next random number, the current random number
+            is squared. This squared number can have at most 8 digits.
+            The next number is just the middle 4 digits.
+        </p>
+        <p> 
+            In this app the initial random number is calculated from
+            current unix time.
+        </p>
     </description>
 </component>
 
