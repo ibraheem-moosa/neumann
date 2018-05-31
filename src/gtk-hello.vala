@@ -30,7 +30,7 @@ public class MyApp : Gtk.Application {
         var main_window = new Gtk.ApplicationWindow (this);
         main_window.default_height = 500;
         main_window.default_width = 500;
-        main_window.title = "Hello World";
+        main_window.title = "4-Rand";
         main_window.add (button_hello);
         main_window.show_all ();
     }
