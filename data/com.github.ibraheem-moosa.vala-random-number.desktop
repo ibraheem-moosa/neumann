@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=Hello Again
-Generic Name=Hello World App
-Comment=Proves that we can use Vala and Gtk
+Name=4-digit Random Number Generator
+Generic Name=4-digit Random Number Generator App
+Comment=Uses John von Neumann's middle square method to generate 4-digit random numbers
 Categories=Utility;Education;
-Exec=com.github.ibraheem-moosa.elementary-hello-again
+Exec=com.github.ibraheem-moosa.vala-random-number
 Icon=application-default-icon
 Terminal=false
 Type=application
-X-GNOME-Gettext-Domain=hello-again
-Keywords=Hello;World;Example
+X-GNOME-Gettext-Domain=random-number
+Keywords=Random;Number;Neumann
