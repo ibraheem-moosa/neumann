@@ -3,7 +3,7 @@
 <component type="desktop">
     <id>com.github.ibraheem-moosa.vala-random-number.desktop</id>
     <metadata_licence>CC0</metadata_licence>
-    <name>4-digit Random Number Generator</name>
+    <name>4-Rand</name>
     <summary>Get random numbers using middle square method!</summary>
     <description>
         <p>
