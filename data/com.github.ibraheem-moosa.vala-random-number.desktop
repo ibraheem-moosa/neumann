@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=4-digit Random Number Generator
-Generic Name=4-digit Random Number Generator App
-Comment=Uses John von Neumann's middle square method to generate 4-digit random numbers
+Name=4-Rand
+Generic Name=4-digit Random Number Generator
+Comment=Generate 4-digit random numbers using John von Neumann's middle square method
 Categories=Utility;Education;
 Exec=com.github.ibraheem-moosa.vala-random-number
 Icon=application-default-icon
